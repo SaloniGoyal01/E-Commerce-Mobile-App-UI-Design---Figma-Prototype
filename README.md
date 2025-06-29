@@ -7,6 +7,30 @@ Explore featured products like sneakers, cosmetics, and electronics
 View product details and add items to cart
 Make payments and receive order confirmation
 
+## 📸 UI Screens Preview
+
+<table>
+  <tr>
+    <td><b>Login</b></td>
+    <td><b>Home</b></td>
+    <td><b>Product Detail</b></td>
+  </tr>
+  <tr>
+    <td><img src="login.png" width="200"></td>
+    <td><img src="home.png" width="200"></td>
+    <td><img src="product.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><b>Cart</b></td>
+    <td><b>Order Success</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="cart.png" width="200"></td>
+    <td><img src="success.png" width="200"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 📸 Preview
 
